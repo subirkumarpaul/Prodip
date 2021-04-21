@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:0,
+
+#EXTINF:0,IPL 2
+https://hadieditz.info/hls/sports_ninjatv.m3u8
+#EXTINF:0,IPL 3
+https://vsd75.mycdn.me/hls/1129113914034.m3u8/sig/YI_a93N6Zps/expires/1619108677046/srcIp/103.91.128.34/clientType/0/srcAg/CHROME_ANDROID/mid/2443941781170/1129113914034_high/index.m3u8
+#EXTINF:0,IPL 4
+http://uk4.zecast.com:1935/star-live/cloud2t/chunklist_w8761599.m3u8
 #EXTINF:0,TV 1
 http://otv.ftpbd.net/streams/101/index.m3u8
 #EXTINF:0,TV 2
